@@ -1,6 +1,6 @@
 # Hi there, I'm Jose Rivera! 👋
 ## About Me 🚀
-I'm a passionate Senior Cyber Security Analyst & Software Engineer with experience in Python, Java, C#, and Microsoft SQL.  
+I'm a passionate Senior Cyber Security Analyst & Software Engineer  
 I enjoy solving complex problems, learning new skills, and collaborating with others to develop innovative solutions. 
 My career has spanned military and civilian sectors, with a focus on cybersecurity, information security, and software engineering.
 - 🌱 Currently learning: Python, AI/ML
