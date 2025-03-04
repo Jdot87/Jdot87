@@ -5,7 +5,7 @@ I enjoy solving complex problems, learning new skills, and collaborating with ot
 My career has spanned military and civilian sectors, with a focus on cybersecurity, information security, and software engineering.
 - 🌱 Currently learning: JAVASCRIPT and React/React Native
 - 🔭 Working on: Automated Decision Making App, and other small projects to sharpen my programming skills
-- 📫 How to reach me: JdotRivera87@gmail.com www.linkedin.com/in/jose-a-rivera-thomas
+- 📫 How to reach me: JdotRivera87@gmail.com , www.linkedin.com/in/jose-a-rivera-thomas
 
 - ⚡ Fun fact: I'm a car enthusiast and own Kaiju Auto Imports, focusing on importing vehicles from Japan!
 ## My Skills 🧠
